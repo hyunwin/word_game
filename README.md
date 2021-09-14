@@ -2,5 +2,5 @@
 This was a school project that involved creating a word game which has an objective of finding all possible words in a randomly generated matrix.
 This game was built as a web application using C++, JavaScript, and HTML. It displays user input, a randomly generated puzzle, and all possible answers to the puzzle. Down below is a screenshot of the website.
 
-![Word Game](wordgame.png)
+![Word Game](wordgame.jpg)
 Format: ![Word Game](url)
